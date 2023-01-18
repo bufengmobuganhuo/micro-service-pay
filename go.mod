@@ -3,7 +3,7 @@ module github.com/bufengmobuganhuo/micro-service-payment
 go 1.17
 
 require (
-	github.com/bufengmobuganhuo/micro-service-common v0.0.0-20230116121723-e3a0c3149340
+	github.com/bufengmobuganhuo/micro-service-common v0.0.0-20230118031023-31e0369e4e24
 	github.com/golang/protobuf v1.5.2
 	github.com/jinzhu/gorm v1.9.16
 	github.com/micro/go-micro/v2 v2.9.1
@@ -64,10 +64,10 @@ require (
 	github.com/uber/jaeger-client-go v2.30.0+incompatible // indirect
 	github.com/uber/jaeger-lib v2.4.1+incompatible // indirect
 	github.com/xanzy/ssh-agent v0.2.1 // indirect
-	go.uber.org/atomic v1.5.0 // indirect
-	go.uber.org/multierr v1.3.0 // indirect
+	go.uber.org/atomic v1.7.0 // indirect
+	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/tools v0.0.0-20190618225709-2cfd321de3ee // indirect
-	go.uber.org/zap v1.13.0 // indirect
+	go.uber.org/zap v1.24.0 // indirect
 	golang.org/x/crypto v0.0.0-20200510223506-06a226fb4e37 // indirect
 	golang.org/x/lint v0.0.0-20191125180803-fdd1cda4f05f // indirect
 	golang.org/x/net v0.0.0-20200520182314-0ba52f642ac2 // indirect
@@ -78,6 +78,7 @@ require (
 	google.golang.org/grpc v1.26.0 // indirect
 	google.golang.org/protobuf v1.26.0 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
+	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.2.4 // indirect
